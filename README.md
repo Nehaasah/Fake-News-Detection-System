@@ -28,6 +28,8 @@ This project presents a sophisticated solution for fake news detection using a c
 
 5. **Train the Logistic Regression Model**: Scikit-learn's LogisticRegression class is instantiated and trained using the training data.
 
-6. **Evaluating the Model**: Evaluating the performance of the model by predicting the labels for the test data. Calculated the accuracy score (using scikit-learn's accuracy_score metric) that came equal to "97.9 % " which provies model's effectiveness in classifying real and fake news articles as extremely good.
+6. **Evaluating the Model**: Evaluating the performance of the model by predicting the labels for the test data.
+   Calculated the accuracy score (using scikit-learn's accuracy_score metric) that came equal to ----- [ 97.9 % ]-------
+   which provies model's effectiveness in classifying real and fake news articles as extremely good.
    ## Finally A Predictive System is Ready to be used.
 
